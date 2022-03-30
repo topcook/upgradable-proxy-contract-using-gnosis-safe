@@ -45,5 +45,5 @@ module.exports = {
     // apiKey: "VF1PZED1J5D6GC8AZR49J2FF4QRPX58F23"//for bsc
     apiKey: 'A81SHP67CU2TXQVVS7NHB3Z8T921XYYVW5', //for etherscan 0x85...
   },
-  solidity: '0.7.3',
+  solidity: '0.8.2',
 }
