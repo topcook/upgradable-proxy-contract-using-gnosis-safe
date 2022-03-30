@@ -9,3 +9,6 @@ proxy admin: 0xdd68f00245a9aFdC4990054f91352f484add4F96
 box v1 contract: 0x770AB8580aDF0cfA3c5d35Cc207F7aae5E8C7697
 box v2 contract: 0x64b398336EC035D32E021D9dC4DbBbd48dc945c5
 gnosis safe address: 0x7a0E1aebF1feEa4db5fe8A5b46b51EEe5AEC3b0F
+
+version 3:
+box v3 contract: 0x8a416dFdcd56d3F01B48518FC0f6fc787f0C0A29
